@@ -30,5 +30,12 @@ module IracingSchedule
       g.fixture_replacement :factory_girl, :dir=>"spec/factories"
       g.template_engine :haml
     end
+
+    config.relative_url_root = case Rails.env
+      when 'testing', 'staging', 'production'
+        '/ischedule'
+      else
+        ''
+    end
   end
 end

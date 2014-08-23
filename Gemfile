@@ -36,6 +36,9 @@ gem 'draper'
 group :development do
   gem 'spring'
   gem 'proxylocal'
+  gem 'capistrano-rails'
+  gem 'capistrano-bundler'
+  gem 'capistrano-rbenv', '~> 2.0'
 end
 
 group :development, :test do
