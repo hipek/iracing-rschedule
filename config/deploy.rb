@@ -41,6 +41,10 @@ namespace :deploy do
   desc 'Restart application'
   task :restart do
     on roles(:app), in: :sequence, wait: 5 do
+      within current_path do
+        execute :bundle, "exec thin stop || echo 'OK'"
+        execute :bundle, "exec thin start --socket tmp/sockets/thin.0.sock -e #{fetch(:stage)} -d --tag '#{fetch(:application)}_#{fetch(:stage)}'"
+      end
       # Your restart mechanism here, for example:
       # execute :touch, release_path.join('tmp/restart.txt')
     end
