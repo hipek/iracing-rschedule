@@ -1,6 +1,11 @@
 module ScheduleParser
   def parse(file)
-    ext = File.extname(file)
+    ext = File.extname(
+      if file.respond_to?(:original_filename)
+        file.original_filename
+      else
+        file
+      end)
 
     if ext =~ /\.txt/
       ScheduleParser::Txt.new(file)

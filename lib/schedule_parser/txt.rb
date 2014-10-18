@@ -14,7 +14,7 @@ class ScheduleParser::Txt < ScheduleParser::Base
         last = line
         read_line(line, &blk)
       elsif mins_laps(line).present?
-        season.tracks[2] = mins_laps(line)
+        season.tracks.last[2] = mins_laps(line)
       elsif last.match /Season/
         self.cars = line.strip.split(',')
         last = ''

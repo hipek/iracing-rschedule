@@ -10,6 +10,7 @@ class ScheduleParser::Pdf < ScheduleParser::Base
 
   def lines
     last = ''
+
     pages do |page|
       page.text.split(/\n/).each do |line|
         next if line.blank?
