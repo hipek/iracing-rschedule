@@ -33,7 +33,7 @@ module IracingSchedule
 
     config.relative_url_root = case Rails.env
       when 'testing', 'staging', 'production'
-        '/ischedule'
+        '' # '/ischedule'
       else
         ''
     end
