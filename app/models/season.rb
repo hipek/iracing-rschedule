@@ -21,7 +21,7 @@ class Season < ActiveRecord::Base
   end
 
   def read_seasons
-    self.series = ScheduleParser.new(file).series.map do |series|
+    self.series = ScheduleParser.parse(file).series.map do |series|
       self.name = series.season_name if name.blank?
       ser = Series.new(
         name: series.series_name,

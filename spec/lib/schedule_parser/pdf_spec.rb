@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe ScheduleParser do
+describe ScheduleParser::Pdf do
   before(:all) do
     @series = described_class.new(
       fixture_file_upload('files/2014S3.pdf')
