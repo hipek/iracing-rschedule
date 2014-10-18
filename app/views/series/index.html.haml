@@ -10,7 +10,7 @@
   %tbody
     - @series.each do |series|
       %tr
-        %td= series.name
+        %td [#{series.license}] #{series.name}
         %td= series.season.name
         %td
           = link_to 'Show', series

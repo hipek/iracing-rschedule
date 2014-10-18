@@ -7,8 +7,14 @@ class SeriesTrack < ActiveRecord::Base
 
   default_scope ->{ order(:week) }
 
+  BLACKLISTED_WORDS = [
+    'Full'
+  ]
+
   def apply_track
-    tname = name.split(' - ').first.strip
+    tname = name.split(' - ').first
+    BLACKLISTED_WORDS.each{|w| tname.gsub!(w, ' ')}
+    tname = tname.squeeze(' ').strip
     self.track = Track.find_or_create_by(name: tname)
   end
 

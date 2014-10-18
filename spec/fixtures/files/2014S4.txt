@@ -644,7 +644,7 @@ Standing start
 Week 3 (2014-11-11) Mount Panorama Circuit Cautions disabled, Single file restarts,
 Standing start
 25 mins
-Week 4 (2014-11-18) Autódromo José Carlos Pace - Moto Cautions disabled, Single file restarts,
+Week 4 (2014-11-18) AutÃ³dromo JosÃ© Carlos Pace - Moto Cautions disabled, Single file restarts,
 Standing start
 25 mins
 Week 5 (2014-11-25) Watkins Glen International - Classic Cautions disabled, Single file restarts,
@@ -660,7 +660,7 @@ Races every odd 2 hours at 30 past and qual on the hour every hour
 Week 1 (2014-10-28) Canadian Tire Motorsports Park Local advisory cautions, Single file
 restarts, Standing start
 19 laps
-Week 2 (2014-11-04) Autódromo José Carlos Pace - Grand Prix Local advisory cautions, Single file
+Week 2 (2014-11-04) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local advisory cautions, Single file
 restarts, Standing start
 15 laps
 Week 3 (2014-11-11) Lime Rock Park - Full Course Local advisory cautions, Single file
@@ -679,7 +679,7 @@ iRacing Corvette Challenge- 2014 Season 4
 Chevrolet Corvette C6.R GT1
 Class D (4.0) --> Pro/WC (4.0)
 Races every odd 2 hours on the hour and qual at 30 past every hour
-Week 1 (2014-10-28) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 1 (2014-10-28) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Rolling start
 20 laps
 Week 2 (2014-11-04) Silverstone Circuit - Historical Grand Prix Local enforced cautions, Single file
@@ -760,7 +760,7 @@ restarts, Standing start
 Week 5 (2014-11-25) Road Atlanta - Full Course Local enforced cautions, Single file
 restarts, Standing start
 25 mins
-Week 6 (2014-12-02) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 6 (2014-12-02) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 25 mins
 Ruf Cup - 2014 Season 4
@@ -776,7 +776,7 @@ restarts, Standing start
 Week 3 (2014-11-11) Road Atlanta - Full Course Local enforced cautions, Single file
 restarts, Standing start
 25 mins
-Week 4 (2014-11-18) Autódromo José Carlos Pace - Moto Local enforced cautions, Single file
+Week 4 (2014-11-18) AutÃ³dromo JosÃ© Carlos Pace - Moto Local enforced cautions, Single file
 restarts, Standing start
 25 mins
 Week 5 (2014-11-25) Mount Panorama Circuit Local enforced cautions, Single file
@@ -860,7 +860,7 @@ Races every 2 hours on the hour. Qual 30 past every hour.
 Week 1 (2014-10-28) Circuit de Spa-Francorchamps - Classic Pits Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 21 laps
-Week 2 (2014-11-04) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 2 (2014-11-04) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 32 laps
 Week 3 (2014-11-11) Mount Panorama Circuit Local enforced cautions, Double file
@@ -894,7 +894,7 @@ restarts lapped on inside, Rolling start
 Week 4 (2014-11-18) Circuit Gilles Villeneuve Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 45 mins
-Week 5 (2014-11-25) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 5 (2014-11-25) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 45 mins
 Week 6 (2014-12-02) Road America - Full Course Local enforced cautions, Double file
@@ -956,7 +956,7 @@ restarts, Standing start
 Week 9 (2015-01-17) Road America - Full Course Local enforced cautions, Single file
 restarts, Standing start
 47 laps
-Week 10 (2015-01-24) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 10 (2015-01-24) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 71 laps
 FUN

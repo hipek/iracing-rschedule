@@ -82,5 +82,20 @@ describe ScheduleParser::Txt do
     it "has race type" do
       expect(@series.map(&:race_type).sort.uniq).to eql(%w'OVAL ROAD')
     end
+
+    context "tracks" do
+      before(:all) do
+        @tracks = @series.flat_map{|s| s.tracks}
+          .flat_map{|t| t[1]}.sort.uniq
+      end
+
+      it "has tracks" do
+        expect(@tracks.size).to eql 80
+      end
+
+      it "has 'Autódromo José Carlos Pace'" do
+        expect(@tracks).to include('Autódromo José Carlos Pace - Grand Prix')
+      end
+    end
   end
 end

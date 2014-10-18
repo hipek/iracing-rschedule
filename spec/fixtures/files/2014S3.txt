@@ -911,7 +911,7 @@ restarts lapped on inside, Rolling start
 Week 9 (2014-09-23) Sonoma Raceway - Long Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 25 mins
-Week 10 (2014-09-30) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 10 (2014-09-30) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 25 mins
 Week 11 (2014-10-07) Road Atlanta - Full Course Local enforced cautions, Double file
@@ -1053,7 +1053,7 @@ Rolling start
 Week 2 (2014-08-05) Circuit Gilles Villeneuve - Grand Prix Cautions disabled, Single file restarts,
 Rolling start
 25 mins
-Week 3 (2014-08-12) Autódromo José Carlos Pace - Grand Prix Cautions disabled, Single file restarts,
+Week 3 (2014-08-12) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Cautions disabled, Single file restarts,
 Rolling start
 25 mins
 Week 4 (2014-08-19) Sebring International Raceway - International Cautions disabled, Single file restarts,
@@ -1117,7 +1117,7 @@ restarts, Standing start
 Week 10 (2014-09-30) Watkins Glen International - Classic Boot Local advisory cautions, Single file
 restarts, Standing start
 15 laps
-Week 11 (2014-10-07) Autódromo José Carlos Pace - Grand Prix Local advisory cautions, Single file
+Week 11 (2014-10-07) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local advisory cautions, Single file
 restarts, Standing start
 15 laps
 Week 12 (2014-10-14) Circuit de Spa-Francorchamps - Classic Pits Local advisory cautions, Single file
@@ -1194,7 +1194,7 @@ restarts, Rolling start
 Week 9 (2014-09-23) Sonoma Raceway - Long Local enforced cautions, Single file
 restarts, Rolling start
 35 mins
-Week 10 (2014-09-30) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 10 (2014-09-30) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Rolling start
 35 mins
 Week 11 (2014-10-07) Road Atlanta - Full Course Local enforced cautions, Single file
@@ -1268,7 +1268,7 @@ restarts, Standing start
 Week 7 (2014-09-09) Mid-Ohio Sports Car Course - Full Local enforced cautions, Single file
 restarts, Standing start
 25 mins
-Week 8 (2014-09-16) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 8 (2014-09-16) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 25 mins
 Week 9 (2014-09-23) Mount Panorama Circuit Local enforced cautions, Single file
@@ -1340,7 +1340,7 @@ restarts, Standing start
 Week 4 (2014-08-19) Road Atlanta - Full Course Local enforced cautions, Single file
 restarts, Standing start
 22 laps
-Week 5 (2014-08-26) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 5 (2014-08-26) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 20 laps
 Week 6 (2014-09-02) The Milwaukee Mile Full course cautions, Double file
@@ -1512,7 +1512,7 @@ restarts lapped on inside, Rolling start
 Week 7 (2014-09-09) Circuit of the Americas - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 25 laps
-Week 8 (2014-09-16) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 8 (2014-09-16) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 32 laps
 Week 9 (2014-09-23) Sebring International Raceway - International Local enforced cautions, Double file
@@ -1565,7 +1565,7 @@ restarts, Standing start
 Week 11 (2014-10-07) Circuit de Spa-Francorchamps - GP Pits Local enforced cautions, Single file
 restarts, Standing start
 36 laps
-Week 12 (2014-10-14) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 12 (2014-10-14) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 59 laps
 FUN

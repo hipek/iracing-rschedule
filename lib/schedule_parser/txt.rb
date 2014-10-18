@@ -9,7 +9,6 @@ class ScheduleParser::Txt < ScheduleParser::Base
     last = ''
 
     lines do |line|
-      line = encode(line)
       if KEYWORDS.any?{|k| line.match(k)}
         last = line
         read_line(line, &blk)
@@ -57,12 +56,5 @@ class ScheduleParser::Txt < ScheduleParser::Base
     week =~ DATE
     date = $1
     [date, track].compact
-  end
-
-  protected
-
-  def encode(line)
-    line.encode!('UTF-16', undef: :replace, invalid: :replace, replace: "")
-    line.encode!('UTF-8').strip
   end
 end

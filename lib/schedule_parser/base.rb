@@ -12,6 +12,7 @@ class ScheduleParser::Base < Struct.new(:file)
   NIGHT_RACE = 'Night race'
   BLACKLISTED_WORDS = [
     'Local enforced cautions',
+    'Local advisory cautions',
     'Single file', ',',
     'Double file', 'course cautions',
     'Cautions disabled',

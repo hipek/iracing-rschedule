@@ -880,7 +880,7 @@ restarts lapped on inside, Rolling start
 Week 3 (2014-05-13) Circuit of the Americas - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 25 mins
-Week 4 (2014-05-20) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 4 (2014-05-20) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 25 mins
 Week 5 (2014-05-27) Lime Rock Park - Full Course Local enforced cautions, Double file
@@ -1108,7 +1108,7 @@ restarts, Standing start
 Week 11 (2014-07-08) Phillip Island - Phillip Island Circuit Local advisory cautions, Single file
 restarts, Standing start
 16 laps
-Week 12 (2014-07-15) Autódromo José Carlos Pace - Grand Prix Local advisory cautions, Single file
+Week 12 (2014-07-15) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local advisory cautions, Single file
 restarts, Standing start
 15 laps
 iRacing V8 Supercars Series - 2014 Season 2
@@ -1176,7 +1176,7 @@ restarts, Standing start
 Week 7 (2014-06-10) Mid-Ohio Sports Car Course - Chicane Local enforced cautions, Single file
 restarts, Standing start
 25 mins
-Week 8 (2014-06-17) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 8 (2014-06-17) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 25 mins
 Week 9 (2014-06-24) Mount Panorama Circuit Local enforced cautions, Single file
@@ -1311,7 +1311,7 @@ restarts lapped on inside, Rolling start
 Week 11 (2014-07-08) Mid-Ohio Sports Car Course - Full Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 45 mins
-Week 12 (2014-07-15) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Double file
+Week 12 (2014-07-15) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Double file
 restarts lapped on inside, Rolling start
 45 mins
 B Class Series
@@ -1337,7 +1337,7 @@ Single file restarts, Standing start
 Week 6 (2014-06-03) Brands Hatch Circuit - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 38 laps
-Week 7 (2014-06-10) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 7 (2014-06-10) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 35 laps
 Week 8 (2014-06-17) Zandvoort - Grand Prix Local enforced cautions, Single file
@@ -1371,7 +1371,7 @@ restarts, Rolling start
 Week 4 (2014-05-20) Phillip Island - Phillip Island Circuit Local enforced cautions, Single file
 restarts, Rolling start
 30 mins
-Week 5 (2014-05-27) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 5 (2014-05-27) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Rolling start
 30 mins
 Week 6 (2014-06-03) Mount Panorama Circuit Local enforced cautions, Single file
@@ -1460,7 +1460,7 @@ restarts, Rolling start
 Week 7 (2014-06-10) Mid-Ohio Sports Car Course - Full Local enforced cautions, Single file
 restarts, Rolling start
 45 mins
-Week 8 (2014-06-17) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 8 (2014-06-17) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Rolling start
 45 mins
 Week 9 (2014-06-24) Sebring International Raceway - International Night race, Local enforced cautions,
@@ -1507,7 +1507,7 @@ restarts, Standing start
 Week 9 (2014-06-24) Phillip Island - Phillip Island Circuit Local enforced cautions, Single file
 restarts, Standing start
 57 laps
-Week 10 (2014-07-01) Autódromo José Carlos Pace - Grand Prix Local enforced cautions, Single file
+Week 10 (2014-07-01) AutÃ³dromo JosÃ© Carlos Pace - Grand Prix Local enforced cautions, Single file
 restarts, Standing start
 59 laps
 Week 11 (2014-07-08) Okayama International Circuit - Full Course Local enforced cautions, Single file
