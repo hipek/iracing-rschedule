@@ -2,7 +2,7 @@
 lock '3.2.1'
 
 set :application, 'ischedule'
-set :repo_url, 'git@jac.zapto.org:ruby/ischedule.git'
+set :repo_url, 'git@git.jacekhiszpanski.tk:ruby/ischedule.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
