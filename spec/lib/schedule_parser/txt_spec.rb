@@ -68,7 +68,6 @@ describe ScheduleParser::Txt do
     end
 
     it "returns series" do
-      p @series
       expect(@series.size).to eql(43)
     end
 
