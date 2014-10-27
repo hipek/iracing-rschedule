@@ -68,7 +68,8 @@ describe ScheduleParser::Txt do
     end
 
     it "returns series" do
-      expect(@series.size).to eql(39)
+      p @series
+      expect(@series.size).to eql(43)
     end
 
     it "has correct series names" do
@@ -90,7 +91,7 @@ describe ScheduleParser::Txt do
       end
 
       it "has tracks" do
-        expect(@tracks.size).to eql 80
+        expect(@tracks.size).to eql 81
       end
 
       it "has 'Autódromo José Carlos Pace'" do

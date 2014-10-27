@@ -2,7 +2,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   helper_method :current_team
 
-  layout 'dark'
+  # layout 'dark'
 
   protected
 
