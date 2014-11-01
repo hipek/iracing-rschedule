@@ -15,6 +15,7 @@ class Track < ActiveRecord::Base
     'south boston speedway',
     'summit point raceway',
     'tompson intl speedway',
+    'thompson speedway motorsports park',
     'usa international speedway'
   ]
 
