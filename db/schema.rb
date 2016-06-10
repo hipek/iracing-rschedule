@@ -41,6 +41,22 @@ ActiveRecord::Schema.define(version: 20160610200145) do
     t.datetime "updated_at"
   end
 
+  create_table "team_member_seasons", force: :cascade do |t|
+    t.integer  "team_member_id"
+    t.integer  "season_id"
+    t.text     "series_names"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "team_members", force: :cascade do |t|
+    t.string   "name",       limit: 255
+    t.text     "track_ids"
+    t.integer  "team_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "teams", force: :cascade do |t|
     t.string   "name",       limit: 255
     t.string   "slug",       limit: 255
@@ -51,22 +67,6 @@ ActiveRecord::Schema.define(version: 20160610200145) do
   create_table "tracks", force: :cascade do |t|
     t.string   "name",       limit: 255
     t.string   "key",        limit: 50
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "user_seasons", force: :cascade do |t|
-    t.integer  "user_id"
-    t.integer  "season_id"
-    t.text     "series_names"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "users", force: :cascade do |t|
-    t.string   "name",       limit: 255
-    t.text     "track_ids"
-    t.integer  "team_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

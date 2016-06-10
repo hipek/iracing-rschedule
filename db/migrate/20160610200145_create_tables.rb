@@ -42,15 +42,15 @@ class CreateTables < ActiveRecord::Migration[5.0]
       t.datetime "updated_at"
     end
 
-    create_table "user_seasons", force: :cascade do |t|
-      t.integer  "user_id"
+    create_table "team_member_seasons", force: :cascade do |t|
+      t.integer  "team_member_id"
       t.integer  "season_id"
       t.text     "series_names"
       t.datetime "created_at"
       t.datetime "updated_at"
     end
 
-    create_table "users", force: :cascade do |t|
+    create_table "team_members", force: :cascade do |t|
       t.string   "name",       limit: 255
       t.text     "track_ids"
       t.integer  "team_id"
@@ -65,7 +65,7 @@ class CreateTables < ActiveRecord::Migration[5.0]
     drop_table "series_tracks"
     drop_table "teams"
     drop_table "tracks"
-    drop_table "user_seasons"
-    drop_table "users"
+    drop_table "team_member_seasons"
+    drop_table "team_members"
   end
 end
