@@ -1,0 +1,2 @@
+class SeriesTrack < ApplicationRecord
+end
