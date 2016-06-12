@@ -7,6 +7,27 @@ body {
   padding-top: 50px;
 }
 
+table {
+  @extend .table;
+  @extend .table-striped;
+  margin-bottom: 0;
+  font-size: 11px;
+  // > thead,
+  // > tbody,
+  // > tfoot {
+  //   > tr {
+  //     > th,
+  //     > td {
+  //       padding: 3px;
+  //       border-right: solid 1px #ddd;
+  //       &:last-child {
+  //         border-right: none;
+  //       }
+  //     }
+  //   }
+  // }
+}
+
 /* forms */
 
 .simple_form {
