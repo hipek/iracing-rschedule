@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5.x'
 gem 'jbuilder', '~> 2.0'
+gem 'rack-cors', require: 'rack/cors'
+gem 'haml-rails'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
@@ -20,8 +22,9 @@ gem 'jbuilder', '~> 2.0'
 
 group :development, :test do
   gem 'byebug', platform: :mri
-  gem "rails-controller-testing"
-  gem "rspec-rails", "3.5.0.beta1"
+  gem 'rails-controller-testing'
+  gem 'rspec-rails', '3.5.0.beta1'
+  gem 'factory_girl_rails'
 end
 
 group :development do

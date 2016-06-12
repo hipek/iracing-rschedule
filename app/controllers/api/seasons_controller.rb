@@ -1,4 +1,4 @@
-class Api::SeasonsController < ApplicationController
+class Api::SeasonsController < Api::BaseController
   def index
   end
 
