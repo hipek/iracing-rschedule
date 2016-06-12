@@ -1,12 +1,12 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 
-  namespace :api do
-    resources :seasons
+  namespace :admin do
+    resources :teams
   end
 
-  namespace :admin do
-
+  namespace :api do
+    resources :seasons
   end
 
   resources :teams, only: :index
