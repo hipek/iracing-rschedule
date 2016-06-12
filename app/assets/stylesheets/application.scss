@@ -1,0 +1,16 @@
+@import "bootstrap-sprockets";
+@import "variables";
+@import "bootstrap";
+@import "bootswatch";
+
+body {
+  padding-top: 50px;
+}
+
+/* forms */
+
+.simple_form {
+  @extend .form-horizontal;
+  @extend .well;
+  @extend .col-lg-8;
+}
