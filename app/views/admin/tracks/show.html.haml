@@ -1,0 +1,10 @@
+%p
+  %b Name:
+  = @track.name
+%p
+  %b Key:
+  = @track.key
+
+= link_to 'Edit', edit_admin_track_path(@track)
+\|
+= link_to 'Back', admin_tracks_path

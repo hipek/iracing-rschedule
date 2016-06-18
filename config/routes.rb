@@ -3,6 +3,8 @@ Rails.application.routes.draw do
 
   namespace :admin do
     resources :teams
+    resources :seasons
+    resources :tracks
   end
 
   namespace :api do

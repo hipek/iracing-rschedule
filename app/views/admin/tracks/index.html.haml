@@ -1,0 +1,22 @@
+%h1 Listing tracks
+
+%table
+  %thead
+    %tr
+      %th Name
+      %th Key
+      %th Actions
+
+  %tbody
+    - @tracks.each do |track|
+      %tr
+        %td= track.name
+        %td= track.key
+        %td
+          = link_to 'Show', [:admin, track]
+          = link_to 'Edit', edit_admin_track_path(track)
+          = link_to 'Destroy', [:admin, track], :method => :delete, :data => { :confirm => 'Are you sure?' }
+
+%br
+
+= link_to 'New Track', new_admin_track_path

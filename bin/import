@@ -4,4 +4,4 @@ require_relative '../config/boot'
 require_relative '../config/environment'
 
 import = SeasonImport.new SeasonParse.new(ARGV[0]).to_json
-import.run
+import.run.save

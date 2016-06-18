@@ -1,0 +1,13 @@
+%p
+  %b Name:
+  = @season.name
+%p
+  %b Active from:
+  = @season.active_from
+%p
+  %b Active to:
+  = @season.active_to
+
+= link_to 'Edit', edit_admin_season_path(@season)
+\|
+= link_to 'Back', admin_seasons_path
