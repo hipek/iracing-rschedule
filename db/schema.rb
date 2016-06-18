@@ -36,7 +36,7 @@ ActiveRecord::Schema.define(version: 20160610200145) do
     t.date     "date"
     t.integer  "week"
     t.string   "duration",    limit: 255
-    t.string   "time_of_day",             default: "f"
+    t.string   "time_of_day"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
