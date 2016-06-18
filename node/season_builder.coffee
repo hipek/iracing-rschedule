@@ -24,6 +24,9 @@ class @SeasonBuilder
       _.each series.tracks, (track, i) =>
         ss.tracks.push @buildTrack track, i
 
+      ss.activeFrom = @seriesActiveFrom ss
+      ss.activeTo   = @seriesActiveTo ss
+
       seriesList.push ss
 
     seriesList
@@ -31,13 +34,22 @@ class @SeasonBuilder
     #     activeFrom: doc.seriesActiveFrom()
     #     activeTo: doc.seriesActiveTo()
 
+  seriesActiveFrom: (ss) ->
+    ss.tracks[0].date
+
+  seriesActiveTo: (ss) ->
+    tracks = ss.tracks
+    endDate = new Date tracks[tracks.length - 1].date.getTime()
+    endDate.setDate endDate.getDate() + 7
+    endDate
+
   buildTrack: (data, i) ->
     track =
       week: i + 1
       date: new Date Date.parse data[0]
       name: data[1]
       duration: data[2]
-      night: data[3]
+      timeOfDay: data[3]
       key: @trackKeyName(data[1])[1]
       shortName: @trackKeyName(data[1])[0]
 
