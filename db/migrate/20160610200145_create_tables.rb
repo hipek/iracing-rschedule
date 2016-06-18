@@ -23,7 +23,7 @@ class CreateTables < ActiveRecord::Migration[5.0]
       t.date     "date"
       t.integer  "week"
       t.string   "duration",   limit: 255
-      t.boolean  "night",                  default: false
+      t.string   "time_of_day", default: false
       t.datetime "created_at"
       t.datetime "updated_at"
     end

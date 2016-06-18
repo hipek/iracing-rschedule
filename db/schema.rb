@@ -32,11 +32,11 @@ ActiveRecord::Schema.define(version: 20160610200145) do
   create_table "series_tracks", force: :cascade do |t|
     t.integer  "series_id"
     t.integer  "track_id"
-    t.string   "name",       limit: 255
+    t.string   "name",        limit: 255
     t.date     "date"
     t.integer  "week"
-    t.string   "duration",   limit: 255
-    t.boolean  "night",                  default: false
+    t.string   "duration",    limit: 255
+    t.string   "time_of_day",             default: "f"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
