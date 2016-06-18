@@ -26,7 +26,7 @@ gem 'simple_form'
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rails-controller-testing'
-  gem 'rspec-rails', '3.5.0.beta1'
+  gem 'rspec-rails', '3.5.0.beta2'
   gem 'factory_girl_rails'
 end
 
