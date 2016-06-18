@@ -14,7 +14,9 @@
 ActiveRecord::Schema.define(version: 20160610200145) do
 
   create_table "seasons", force: :cascade do |t|
-    t.string   "name",       limit: 255
+    t.string   "name",        limit: 255
+    t.date     "active_from"
+    t.date     "active_to"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

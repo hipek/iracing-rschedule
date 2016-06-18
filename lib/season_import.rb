@@ -5,7 +5,10 @@ class SeasonImport < Struct.new(:data)
 
   def build_full_season
     data.each do |series|
-      season.series << build_series(OpenStruct.new(series))
+      series = OpenStruct.new(series)
+      season.series << build_series(series)
+      season.active_from ||= series.activeFrom
+      season.active_to   ||= series.activeTo
     end
   end
 
