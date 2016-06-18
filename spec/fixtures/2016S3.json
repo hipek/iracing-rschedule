@@ -1,0 +1,5019 @@
+[
+  {
+    "name": "iRacing Advanced Legends",
+    "raceType": "OVAL",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Legends Ford '34 Coupe"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Legends Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Oxford Plains Speedway",
+        "shortName": "Oxford Plains Speedway",
+        "keyName": "oxford plains",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Legends Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Concord Speedway",
+        "shortName": "Concord Speedway",
+        "keyName": "concord",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Street Stock - Fixed",
+    "raceType": "OVAL",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Street Stock"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "20 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Late Model Series",
+    "raceType": "OVAL",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Chevrolet Monte Carlo SS"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "60 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Concord Speedway",
+        "shortName": "Concord Speedway",
+        "keyName": "concord",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "New Smyrna Speedway",
+        "shortName": "New Smyrna Speedway",
+        "keyName": "new smyrna",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Irwindale Speedway - Outer",
+        "shortName": "Irwindale Speedway",
+        "keyName": "irwindale",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Oxford Plains Speedway",
+        "shortName": "Oxford Plains Speedway",
+        "keyName": "oxford plains",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Five Flags Speedway",
+        "shortName": "Five Flags Speedway",
+        "keyName": "five flags",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "60 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing National Series - Fixed",
+    "raceType": "OVAL",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR K&N Pro Chevrolet Impala"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "New Smyrna Speedway",
+        "shortName": "New Smyrna Speedway",
+        "keyName": "new smyrna",
+        "duration": "65 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Irwindale Speedway - Outer",
+        "shortName": "Irwindale Speedway",
+        "keyName": "irwindale",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Rockingham Speedway - Oval",
+        "shortName": "Rockingham Speedway",
+        "keyName": "rockingham",
+        "duration": "45 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Richmond International Raceway",
+        "shortName": "Richmond International Raceway",
+        "keyName": "richmond international",
+        "duration": "55 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "65 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "45 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Dover International Speedway",
+        "shortName": "Dover International Speedway",
+        "keyName": "dover international",
+        "duration": "45 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing SK Modified Series",
+    "raceType": "OVAL",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Modified - SK"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Five Flags Speedway",
+        "shortName": "Five Flags Speedway",
+        "keyName": "five flags",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "New Smyrna Speedway",
+        "shortName": "New Smyrna Speedway",
+        "keyName": "new smyrna",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Stafford Motor Speedway - Full Course",
+        "shortName": "Stafford Motor Speedway",
+        "keyName": "stafford motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Oxford Plains Speedway",
+        "shortName": "Oxford Plains Speedway",
+        "keyName": "oxford plains",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Concord Speedway",
+        "shortName": "Concord Speedway",
+        "keyName": "concord",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Langley Speedway",
+        "shortName": "Langley Speedway",
+        "keyName": "langley",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "INDYCAR Series - Oval",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Dallara DW12"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Texas Motor Speedway - Oval",
+        "shortName": "Texas Motor Speedway",
+        "keyName": "texas motor",
+        "duration": "120 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "The Milwaukee Mile",
+        "shortName": "The Milwaukee Mile",
+        "keyName": "the milwaukee mile",
+        "duration": "150 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "95 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "160 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - IndyCar Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "72 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Oval",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "120 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Auto Club Speedway - Oval",
+        "shortName": "Auto Club Speedway",
+        "keyName": "auto club",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "130 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Chicagoland Speedway",
+        "shortName": "Chicagoland Speedway",
+        "keyName": "chicagoland",
+        "duration": "120 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "72 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "120 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Las Vegas Motor Speedway - Oval",
+        "shortName": "Las Vegas Motor Speedway",
+        "keyName": "las vegas motor",
+        "duration": "120 laps",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "INDYCAR Series - Oval - Fixed",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Dallara DW12"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Texas Motor Speedway - Oval",
+        "shortName": "Texas Motor Speedway",
+        "keyName": "texas motor",
+        "duration": "65 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "The Milwaukee Mile",
+        "shortName": "The Milwaukee Mile",
+        "keyName": "the milwaukee mile",
+        "duration": "75 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "80 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - IndyCar Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Oval",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "70 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Auto Club Speedway - Oval",
+        "shortName": "Auto Club Speedway",
+        "keyName": "auto club",
+        "duration": "65 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Chicagoland Speedway",
+        "shortName": "Chicagoland Speedway",
+        "keyName": "chicagoland",
+        "duration": "70 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "45 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "75 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Las Vegas Motor Speedway - Oval",
+        "shortName": "Las Vegas Motor Speedway",
+        "keyName": "las vegas motor",
+        "duration": "75 laps",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Street Stock Class C - Fixed",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Street Stock"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Rockingham Speedway - Oval",
+        "shortName": "Rockingham Speedway",
+        "keyName": "rockingham",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Concord Speedway",
+        "shortName": "Concord Speedway",
+        "keyName": "concord",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Five Flags Speedway",
+        "shortName": "Five Flags Speedway",
+        "keyName": "five flags",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "New Smyrna Speedway",
+        "shortName": "New Smyrna Speedway",
+        "keyName": "new smyrna",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Super Late Model Series",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Super Late Model"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Concord Speedway",
+        "shortName": "Concord Speedway",
+        "keyName": "concord",
+        "duration": "75 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Irwindale Speedway - Outer",
+        "shortName": "Irwindale Speedway",
+        "keyName": "irwindale",
+        "duration": "75 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "90 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "75 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "New Smyrna Speedway",
+        "shortName": "New Smyrna Speedway",
+        "keyName": "new smyrna",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "75 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Oxford Plains Speedway",
+        "shortName": "Oxford Plains Speedway",
+        "keyName": "oxford plains",
+        "duration": "90 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "90 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Five Flags Speedway",
+        "shortName": "Five Flags Speedway",
+        "keyName": "five flags",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Class C Series - Fixed",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR Camping World Toyota Tundra",
+      "NASCAR Camping World Chevrolet Silverado"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "35 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Cup",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "17 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "17 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Tour Modified Series",
+    "raceType": "OVAL",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Modified - NASCAR Whelen Tour"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "90 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "South Boston Speedway",
+        "shortName": "South Boston Speedway",
+        "keyName": "south boston",
+        "duration": "120 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "70 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Thompson Speedway Motorsports Park - Oval",
+        "shortName": "Thompson Speedway Motorsports Park",
+        "keyName": "thompson motorsports",
+        "duration": "90 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "90 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Southern National Motorsports Park",
+        "shortName": "Southern National Motorsports Park",
+        "keyName": "southern national motorsports",
+        "duration": "120 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "USA International Speedway",
+        "shortName": "USA International Speedway",
+        "keyName": "usa international",
+        "duration": "80 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Langley Speedway",
+        "shortName": "Langley Speedway",
+        "keyName": "langley",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "70 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Silver Crown Cup",
+    "raceType": "OVAL",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Silver Crown"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "100 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "100 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "60 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "66 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - IndyCar Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "67 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "100 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "100 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "50 laps",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Sprint Car Cup",
+    "raceType": "OVAL",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Sprint Car"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Martinsville Speedway",
+        "shortName": "Martinsville Speedway",
+        "keyName": "martinsville",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Gateway Motorsports Park - Oval",
+        "shortName": "Gateway Motorsports Park",
+        "keyName": "gateway motorsports",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Irwindale Speedway - Outer",
+        "shortName": "Irwindale Speedway",
+        "keyName": "irwindale",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "33 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Lanier National Speedway",
+        "shortName": "Lanier National Speedway",
+        "keyName": "lanier national",
+        "duration": "80 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Irwindale Speedway - Outer",
+        "shortName": "Irwindale Speedway",
+        "keyName": "irwindale",
+        "duration": "67 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "55 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Lucas Oil Raceway",
+        "shortName": "Lucas Oil Raceway",
+        "keyName": "lucas oil",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Class B Series - Fixed",
+    "raceType": "OVAL",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR XFINITY Ford Mustang",
+      "NASCAR XFINITY Chevrolet Camaro",
+      "NASCAR XFINITY Toyota Camry"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "62 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "31 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "25 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "50 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "62 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "22 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "11 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Darlington Raceway",
+        "shortName": "Darlington Raceway",
+        "keyName": "darlington",
+        "duration": "37 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Class A Series",
+    "raceType": "OVAL",
+    "license": "A",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR Sprint Cup Chevrolet SS",
+      "NASCAR Sprint Cup Ford Fusion",
+      "NASCAR Sprint Cup Toyota Camry"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Oval",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "107 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Sonoma Raceway - Cup",
+        "shortName": "Sonoma Raceway",
+        "keyName": "sonoma",
+        "duration": "44 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "64 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "67 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "121 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "100 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "64 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Cup",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "36 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Atlanta Motor Speedway - Oval",
+        "shortName": "Atlanta Motor Speedway",
+        "keyName": "atlanta motor",
+        "duration": "130 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "200 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "80 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Darlington Raceway",
+        "shortName": "Darlington Raceway",
+        "keyName": "darlington",
+        "duration": "147 laps",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "NASCAR iRacing Class A Series - Fixed",
+    "raceType": "OVAL",
+    "license": "A",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR Sprint Cup Chevrolet SS",
+      "NASCAR Sprint Cup Ford Fusion",
+      "NASCAR Sprint Cup Toyota Camry"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Oval",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "67 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Sonoma Raceway - Cup",
+        "shortName": "Sonoma Raceway",
+        "keyName": "sonoma",
+        "duration": "28 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "40 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Kentucky Speedway - Oval",
+        "shortName": "Kentucky Speedway",
+        "keyName": "kentucky",
+        "duration": "67 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "76 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Oval",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Cup",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "23 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Atlanta Motor Speedway - Oval",
+        "shortName": "Atlanta Motor Speedway",
+        "keyName": "atlanta motor",
+        "duration": "82 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Bristol Motor Speedway",
+        "shortName": "Bristol Motor Speedway",
+        "keyName": "bristol motor",
+        "duration": "125 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Michigan International Speedway",
+        "shortName": "Michigan International Speedway",
+        "keyName": "michigan international",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Darlington Raceway",
+        "shortName": "Darlington Raceway",
+        "keyName": "darlington",
+        "duration": "92 laps",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Production Car Challenge",
+    "raceType": "ROAD",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Pontiac Solstice",
+      "Global Mazda MX-5 Cup"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Okayama International Circuit - Short",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Summit Point Raceway - Jefferson Reverse",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Road Course",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Summit Point Raceway - Short",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "11 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "12 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Summit Point Raceway - Jefferson Circuit",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Road Course",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "14 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Lime Rock Park - Chicane",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Road Course",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "7 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "MAZDA MX-5 Cup - Fixed",
+    "raceType": "ROAD",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Global Mazda MX-5 Cup"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Summit Point Raceway - Jefferson Circuit",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Road Course",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Road Course",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Okayama International Circuit - Short",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Lime Rock Park - Chicane",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Summit Point Raceway - Jefferson Reverse",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Cadillac Cup - Fixed",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Cadillac CTS-V Racecar"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Road Course",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Grand Prix",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke Short w/out Arena",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Grand Touring Cup",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "VW Jetta TDI Cup",
+      "Ford Mustang FR500S",
+      "Pontiac Solstice"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Road Course",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Watkins Glen International - Classic Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Junior",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Donington Park Racing Circuit - National",
+        "shortName": "Donington Park Racing Circuit",
+        "keyName": "donington",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Road America - Bend",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke VLN",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Road Course",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Spec Racer Ford Challenge",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "SCCA Spec Racer Ford"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Watkins Glen International - Classic Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "12 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Okayama International Circuit - Short",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Donington Park Racing Circuit - National",
+        "shortName": "Donington Park Racing Circuit",
+        "keyName": "donington",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Nürburgring Nordschleife - Industriefahrten",
+        "shortName": "Nürburgring Nordschleife",
+        "keyName": "nürburgring nordschleife",
+        "duration": "3 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Watkins Glen International - Cup",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Cup - fixed - change new season",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Kia Optima"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - Sprintstrecke",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Circuit Zolder - Alternate",
+        "shortName": "Circuit Zolder",
+        "keyName": "zolder",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Donington Park Racing Circuit - National",
+        "shortName": "Donington Park Racing Circuit",
+        "keyName": "donington",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Sonoma Raceway - Cup",
+        "shortName": "Sonoma Raceway",
+        "keyName": "sonoma",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Oulton Park Circuit - Island",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ruf GT3 Challenge - Fixed - needs art",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Ruf RT 12R Track"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Road Course",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Okayama International Circuit - Short",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Oulton Park Circuit - Intl w/no Chicanes",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "30 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "40 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "30 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Skip Barber Race Series",
+    "raceType": "ROAD",
+    "license": "D",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Skip Barber Formula 2000"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "New Hampshire Motor Speedway - Road Course with South Oval",
+        "shortName": "New Hampshire Motor Speedway",
+        "keyName": "new hampshire motor",
+        "duration": "21 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "16 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Road Course B",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "17 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "12 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "12 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Sonoma Raceway - IRL",
+        "shortName": "Sonoma Raceway",
+        "keyName": "sonoma",
+        "duration": "14 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Nürburgring Nordschleife - Industriefahrten",
+        "shortName": "Nürburgring Nordschleife",
+        "keyName": "nürburgring nordschleife",
+        "duration": "3 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Donington Park Racing Circuit - National",
+        "shortName": "Donington Park Racing Circuit",
+        "keyName": "donington",
+        "duration": "19 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Advanced Mazda MX-5 Cup Series",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Global Mazda MX-5 Cup"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "25 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "45 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - West",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Daytona International Speedway - Short",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "25 mins",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Sebring International Raceway - Club",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke Short w/out Arena",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Silverstone Circuit - National",
+        "shortName": "Silverstone Circuit",
+        "keyName": "silverstone",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "45 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Blancpain Endurance Series",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "McLaren MP4-12C GT3",
+      "Ruf RT 12R Track",
+      "BMW Z4 GT3",
+      "Mercedes AMG GT3",
+      "Audi R8 LMS",
+      "BMW Z4"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-18T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-25T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-07-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-09T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-16T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-23T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-30T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Endurance",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-06T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-13T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-20T00:00:00.000Z",
+        "name": "Virginia International Raceway - Full Course",
+        "shortName": "Virginia International Raceway",
+        "keyName": "virginia international",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-27T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke Long",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-09-03T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Grand Prix",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "180 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-18T00:00:00.000Z",
+    "activeTo": "2016-09-10T00:00:00.000Z"
+  },
+  {
+    "name": "Grand Prix Legends",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Lotus 49"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Watkins Glen International - Classic",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "16 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Combined without chicanes",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "15 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Nürburgring Nordschleife - Industriefahrten",
+        "shortName": "Nürburgring Nordschleife",
+        "keyName": "nürburgring nordschleife",
+        "duration": "7 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Silverstone Circuit - Historical Grand Prix",
+        "shortName": "Silverstone Circuit",
+        "keyName": "silverstone",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "20 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "19 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Verizon INDYCAR Series",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Dallara DW12"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Classic Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "23 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "32 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "120 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Circuit Gilles Villeneuve",
+        "shortName": "Circuit Gilles Villeneuve",
+        "keyName": "gilles villeneuve",
+        "duration": "36 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "160 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "41 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "44 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Auto Club Speedway - Oval",
+        "shortName": "Auto Club Speedway",
+        "keyName": "auto club",
+        "duration": "95 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "31 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "42 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Pocono Raceway - Oval",
+        "shortName": "Pocono Raceway",
+        "keyName": "pocono",
+        "duration": "72 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "37 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Formula Renault 2.0 Championship",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Formula Renault 2.0"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Classic Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "12 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "19 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "21 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "19 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Circuit of the Americas - Grand Prix",
+        "shortName": "Circuit of the Americas",
+        "keyName": "of the americas",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "23 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "17 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "16 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Oulton Park Circuit - International",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "19 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "13 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - Grand Prix",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing V8 Supercars Series",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Holden Commodore VF V8",
+      "Ford Falcon FG V8"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Oulton Park Circuit - International",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "23 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Indy",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "24 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Oran Park Raceway - Grand Prix",
+        "shortName": "Oran Park Raceway",
+        "keyName": "oran",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Virginia International Raceway - Full Course",
+        "shortName": "Virginia International Raceway",
+        "keyName": "virginia international",
+        "duration": "22 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Watkins Glen International - Cup",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "26 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Barber Motorsports Park - Full Course",
+        "shortName": "Barber Motorsports Park",
+        "keyName": "barber motorsports",
+        "duration": "29 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "28 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Prototype and GT Challenge",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Chevrolet Corvette C6.R GT1",
+      "Aston Martin DBR9 GT1",
+      "HPD ARX-01c",
+      "Ford GT"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "75 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Endurance",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Silverstone Circuit - Grand Prix",
+        "shortName": "Silverstone Circuit",
+        "keyName": "silverstone",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - BES/WEC",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "75 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "75 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Daytona International Speedway - Road Course",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "75 mins",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "60 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Radical Racing Challenge",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Radical SR8"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "25 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Summit Point Raceway - Summit Point Raceway",
+        "shortName": "Summit Point Raceway",
+        "keyName": "summit point",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - Grand Prix",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ruf Cup",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Ruf RT 12R C-Spec"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke Long",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "3 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Brands Hatch Circuit - Grand Prix",
+        "shortName": "Brands Hatch Circuit",
+        "keyName": "brands hatch",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "25 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Road Course",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Oulton Park Circuit - International",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "25 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "25 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mount Panorama Circuit",
+        "shortName": "Mount Panorama Circuit",
+        "keyName": "mount panorama",
+        "duration": "25 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Star Mazda Championship",
+    "raceType": "ROAD",
+    "license": "C",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Star Mazda"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Moto",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Iowa Speedway - Oval",
+        "shortName": "Iowa Speedway",
+        "keyName": "iowa",
+        "duration": "75 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Watkins Glen International - Classic Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "23 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "18 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "60 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "22 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "16 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Richmond International Raceway",
+        "shortName": "Richmond International Raceway",
+        "keyName": "richmond international",
+        "duration": "70 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "34 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Blancpain Sprint Series",
+    "raceType": "ROAD",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "McLaren MP4-12C GT3",
+      "Ruf RT 12R Track",
+      "BMW Z4 GT3",
+      "Mercedes AMG GT3",
+      "Audi R8 LMS"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "40 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "40 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Endurance",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Virginia International Raceway - Full Course",
+        "shortName": "Virginia International Raceway",
+        "keyName": "virginia international",
+        "duration": "40 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Nürburgring Combined - Gesamtstrecke Long",
+        "shortName": "Nürburgring Combined",
+        "keyName": "nürburgring combined",
+        "duration": "60 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Grand Prix",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "40 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Classic Lotus Grand Prix",
+    "raceType": "ROAD",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Lotus 79"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Oulton Park Circuit - Intl w/no Chicanes",
+        "shortName": "Oulton Park Circuit",
+        "keyName": "oulton",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "28 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "21 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Nürburgring Nordschleife - Industriefahrten",
+        "shortName": "Nürburgring Nordschleife",
+        "keyName": "nürburgring nordschleife",
+        "duration": "7 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "32 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "24 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Virginia International Raceway - Full Course",
+        "shortName": "Virginia International Raceway",
+        "keyName": "virginia international",
+        "duration": "27 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Mid-Ohio Sports Car Course - Full Course",
+        "shortName": "Mid-Ohio Sports Car Course",
+        "keyName": "mid-ohio sports car",
+        "duration": "36 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Watkins Glen International - Classic Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "28 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "37 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Circuit Park Zandvoort - Grand Prix",
+        "shortName": "Circuit Park Zandvoort",
+        "keyName": "zandvoort",
+        "duration": "31 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Circuit Zolder - Grand Prix",
+        "shortName": "Circuit Zolder",
+        "keyName": "zolder",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "IMSA Sportscar Championship",
+    "raceType": "ROAD",
+    "license": "B",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Ruf RT 12R C-Spec",
+      "BMW Z4 GT3",
+      "Mercedes AMG GT3",
+      "Audi R8 LMS",
+      "Chevrolet Corvette C7 Daytona Prototype"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Sebring International Raceway - International",
+        "shortName": "Sebring International Raceway",
+        "keyName": "sebring international",
+        "duration": "45 mins",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Watkins Glen International - Boot",
+        "shortName": "Watkins Glen International",
+        "keyName": "watkins glen international",
+        "duration": "45 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Road Atlanta - Full Course",
+        "shortName": "Road Atlanta",
+        "keyName": "road atlanta",
+        "duration": "45 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Canadian Tire Motorsports Park",
+        "shortName": "Canadian Tire Motorsports Park",
+        "keyName": "canadian tire motorsports",
+        "duration": "45 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Sonoma Raceway - Long",
+        "shortName": "Sonoma Raceway",
+        "keyName": "sonoma",
+        "duration": "45 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Lime Rock Park - Full Course",
+        "shortName": "Lime Rock Park",
+        "keyName": "lime rock",
+        "duration": "45 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - BES/WEC",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "45 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Road America - Full Course",
+        "shortName": "Road America",
+        "keyName": "road america",
+        "duration": "45 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Homestead Miami Speedway - Road Course B",
+        "shortName": "Homestead Miami Speedway",
+        "keyName": "homestead miami",
+        "duration": "45 mins",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Virginia International Raceway - Full Course",
+        "shortName": "Virginia International Raceway",
+        "keyName": "virginia international",
+        "duration": "45 mins",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Phillip Island Circuit",
+        "shortName": "Phillip Island Circuit",
+        "keyName": "phillip island",
+        "duration": "45 mins",
+        "timeOfDay": "(Morning)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "45 mins",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "iRacing Grand Prix Series",
+    "raceType": "ROAD",
+    "license": "A",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "McLaren MP4-30"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Autodromo Internazionale Enzo e Dino Ferrari - Grand Prix",
+        "shortName": "Autodromo Internazionale Enzo e Dino Ferrari",
+        "keyName": "autodromo internazionale enzo e dino ferrari",
+        "duration": "42 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Circuit of the Americas - Grand Prix",
+        "shortName": "Circuit of the Americas",
+        "keyName": "of the americas",
+        "duration": "38 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Donington Park Racing Circuit - Grand Prix",
+        "shortName": "Donington Park Racing Circuit",
+        "keyName": "donington",
+        "duration": "51 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Silverstone Circuit - Grand Prix",
+        "shortName": "Silverstone Circuit",
+        "keyName": "silverstone",
+        "duration": "40 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Autódromo José Carlos Pace - Grand Prix",
+        "shortName": "Autódromo José Carlos Pace",
+        "keyName": "autódromo josé carlos pace",
+        "duration": "47 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Okayama International Circuit - Full Course",
+        "shortName": "Okayama International Circuit",
+        "keyName": "okayama international",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Nürburgring Grand-Prix-Strecke - Grand Prix",
+        "shortName": "Nürburgring Grand-Prix-Strecke",
+        "keyName": "nürburgring grand-prix-strecke",
+        "duration": "40 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Indianapolis Motor Speedway - Road Course",
+        "shortName": "Indianapolis Motor Speedway",
+        "keyName": "indianapolis motor",
+        "duration": "50 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Circuit Gilles Villeneuve",
+        "shortName": "Circuit Gilles Villeneuve",
+        "keyName": "gilles villeneuve",
+        "duration": "47 laps",
+        "timeOfDay": "(Late Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Grand Prix",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Circuit de Spa-Francorchamps - Grand Prix Pits",
+        "shortName": "Circuit de Spa-Francorchamps",
+        "keyName": "de spa-francorchamps",
+        "duration": "44 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Suzuka International Racing Course - Grand Prix",
+        "shortName": "Suzuka International Racing Course",
+        "keyName": "suzuka international",
+        "duration": "35 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-06T00:00:00.000Z"
+  },
+  {
+    "name": "Carburetor Cup",
+    "raceType": "ROAD",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR Sprint Cup Chevrolet SS",
+      "NASCAR Sprint Cup Ford Fusion",
+      "NASCAR Sprint Cup Toyota Camry"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Talladega Superspeedway",
+        "shortName": "Talladega Superspeedway",
+        "keyName": "talladega superspeedway",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Oval - Left turning",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Talladega Superspeedway",
+        "shortName": "Talladega Superspeedway",
+        "keyName": "talladega superspeedway",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "15 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Oval - Left turning",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Talladega Superspeedway",
+        "shortName": "Talladega Superspeedway",
+        "keyName": "talladega superspeedway",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Daytona International Speedway - Oval",
+        "shortName": "Daytona International Speedway",
+        "keyName": "daytona international",
+        "duration": "15 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Autodromo Nazionale Monza - Oval - Left turning",
+        "shortName": "Autodromo Nazionale Monza",
+        "keyName": "autodromo nazionale monza",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 13,
+        "date": "2016-09-06T00:00:00.000Z",
+        "name": "Talladega Superspeedway",
+        "shortName": "Talladega Superspeedway",
+        "keyName": "talladega superspeedway",
+        "duration": "15 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-13T00:00:00.000Z"
+  },
+  {
+    "name": "Dallara Dash",
+    "raceType": "ROAD",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "Indycar Dallara circa 2011"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "30 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Mazda Raceway Laguna Seca - Full Course",
+        "shortName": "Mazda Raceway Laguna Seca",
+        "keyName": "mazda laguna seca",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 13,
+        "date": "2016-09-06T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "30 laps",
+        "timeOfDay": "(Night)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-13T00:00:00.000Z"
+  },
+  {
+    "name": "PickUp Cup",
+    "raceType": "ROAD",
+    "license": "R",
+    "seasonName": "2016 Season 3",
+    "cars": [
+      "NASCAR Truck Series Chevrolet Silverado circa 2013"
+    ],
+    "tracks": [
+      {
+        "week": 1,
+        "date": "2016-06-14T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Oval",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 2,
+        "date": "2016-06-21T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 3,
+        "date": "2016-06-28T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 4,
+        "date": "2016-07-05T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Oval",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 5,
+        "date": "2016-07-12T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 6,
+        "date": "2016-07-19T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 7,
+        "date": "2016-07-26T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Oval",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 8,
+        "date": "2016-08-02T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Night)"
+      },
+      {
+        "week": 9,
+        "date": "2016-08-09T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 10,
+        "date": "2016-08-16T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Oval",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 11,
+        "date": "2016-08-23T00:00:00.000Z",
+        "name": "Charlotte Motor Speedway - Oval",
+        "shortName": "Charlotte Motor Speedway",
+        "keyName": "charlotte motor",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 12,
+        "date": "2016-08-30T00:00:00.000Z",
+        "name": "Phoenix International Raceway - 2008 - Oval",
+        "shortName": "Phoenix International Raceway 2008",
+        "keyName": "phoenix international 2008",
+        "duration": "25 laps",
+        "timeOfDay": "(Afternoon)"
+      },
+      {
+        "week": 13,
+        "date": "2016-09-06T00:00:00.000Z",
+        "name": "Daytona circa 2007 - Oval",
+        "shortName": "Daytona circa 2007",
+        "keyName": "daytona circa 2007",
+        "duration": "10 laps",
+        "timeOfDay": "(Afternoon)"
+      }
+    ],
+    "activeFrom": "2016-06-14T00:00:00.000Z",
+    "activeTo": "2016-09-13T00:00:00.000Z"
+  }
+]

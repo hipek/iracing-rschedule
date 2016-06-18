@@ -31,9 +31,6 @@ class @SeasonBuilder
 
     seriesList
 
-    #     activeFrom: doc.seriesActiveFrom()
-    #     activeTo: doc.seriesActiveTo()
-
   seriesActiveFrom: (ss) ->
     ss.tracks[0].date
 
@@ -48,10 +45,10 @@ class @SeasonBuilder
       week: i + 1
       date: new Date Date.parse data[0]
       name: data[1]
+      shortName: @trackKeyName(data[1])[0]
+      keyName: @trackKeyName(data[1])[1]
       duration: data[2]
       timeOfDay: data[3]
-      key: @trackKeyName(data[1])[1]
-      shortName: @trackKeyName(data[1])[0]
 
   trackKeyName: (name) ->
     legacyYear = (name.match(/(20[0-9]{2})/) || [])[0]
