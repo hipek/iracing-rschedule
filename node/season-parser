@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./node/node_modules/coffee-script/bin/coffee ./node/run.coffee -- $1

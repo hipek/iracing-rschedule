@@ -15,3 +15,4 @@
 /log/*.log
 /tmp
 spec/examples.txt
+node/node_modules/*
