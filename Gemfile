@@ -15,6 +15,7 @@ gem 'rack-cors', require: 'rack/cors'
 gem 'haml-rails'
 gem 'simple_form'
 gem 'ransack'
+gem 'draper', github: 'drapergem/draper', branch: 'rails-5'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'

@@ -2,41 +2,42 @@
   Series -
   = @season.name
 
-- @season.series.each do |series|
+- @season.series.includes(:series_tracks).decorate.in_groups_of(2).each do |row_series|
   .row.series-head
-    -# each rowSeries
-    .col-md-6
-      .panel.panel-default
-        .panel-heading= series.name
+    - row_series.each do |series|
+      - next unless series
+      .col-md-6
+        .panel.panel-default
+          .panel-heading= series.full_name
 
-        %table.series
-          %thead
-            %tr
-              %th.week Wk
-              %th.date Date
-              %th.duration Dur
-              %th Track
-              -# each playerSeries
-              -#   %th.user= playerNickname
-          %tbody
-            - series.series_tracks.each do |series_track|
-              %tr{class: 'currentWeek'}
-                %td.week= series_track.week
-                %td.date= series_track.date
-                %td.duration= series_track.duration
-                %td= series_track.name
+          %table.series
+            %thead
+              %tr
+                %th.week Wk
+                %th.date Date
+                %th.duration Dur
+                %th Track
+                -# each playerSeries
+                -#   %th.user= playerNickname
+            %tbody
+              - series.series_tracks.each do |series_track|
+                %tr{class: active_week(series_track)}
+                  %td.week= series_track.week
+                  %td.date= series_track.date
+                  %td.duration= series_track.duration
+                  %td= series_track.name
 
-            -# each playerSeriesTracks
-            -#   tr(class=currentWeek)
-            -#     td.week= week
-            -#     td.date {{displayDate date}}
-            -#     td.duration= duration
-            -#     td= name
-            -#     each playerSeriesTrackData team
-            -#       td(class=kind)
-            -#         input(value=value data-track=trackId data-series=seriesId)
-            %tr
-              %td{ colspan: '15'}= series.cars.join(', ')
+              -# each playerSeriesTracks
+              -#   tr(class=currentWeek)
+              -#     td.week= week
+              -#     td.date {{displayDate date}}
+              -#     td.duration= duration
+              -#     td= name
+              -#     each playerSeriesTrackData team
+              -#       td(class=kind)
+              -#         input(value=value data-track=trackId data-series=seriesId)
+              %tr
+                %td{ colspan: '15'}= series.cars
 
 
 = link_to 'Edit', edit_admin_season_path(@season)
