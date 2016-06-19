@@ -6,9 +6,7 @@
       %th Name
       %th Active from
       %th Active to
-      %th
-      %th
-      %th
+      %th Actions
 
   %tbody
     - @seasons.each do |season|
@@ -16,9 +14,10 @@
         %td= season.name
         %td= season.active_from
         %td= season.active_to
-        %td= link_to 'Show', [:admin, season]
-        %td= link_to 'Edit', edit_admin_season_path(season)
-        %td= link_to 'Destroy', [:admin, season], :method => :delete, :data => { :confirm => 'Are you sure?' }
+        %td
+          = link_to 'Show', [:admin, season]
+          = link_to 'Edit', edit_admin_season_path(season)
+          = link_to 'Destroy', [:admin, season], :method => :delete, :data => { :confirm => 'Are you sure?' }
 
 %br
 

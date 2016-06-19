@@ -1,12 +1,43 @@
-%p
-  %b Name:
+%h1
+  Series -
   = @season.name
-%p
-  %b Active from:
-  = @season.active_from
-%p
-  %b Active to:
-  = @season.active_to
+
+- @season.series.each do |series|
+  .row.series-head
+    -# each rowSeries
+    .col-md-6
+      .panel.panel-default
+        .panel-heading= series.name
+
+        %table.series
+          %thead
+            %tr
+              %th.week Wk
+              %th.date Date
+              %th.duration Dur
+              %th Track
+              -# each playerSeries
+              -#   %th.user= playerNickname
+          %tbody
+            - series.series_tracks.each do |series_track|
+              %tr{class: 'currentWeek'}
+                %td.week= series_track.week
+                %td.date= series_track.date
+                %td.duration= series_track.duration
+                %td= series_track.name
+
+            -# each playerSeriesTracks
+            -#   tr(class=currentWeek)
+            -#     td.week= week
+            -#     td.date {{displayDate date}}
+            -#     td.duration= duration
+            -#     td= name
+            -#     each playerSeriesTrackData team
+            -#       td(class=kind)
+            -#         input(value=value data-track=trackId data-series=seriesId)
+            %tr
+              %td{ colspan: '15'}= series.cars.join(', ')
+
 
 = link_to 'Edit', edit_admin_season_path(@season)
 \|
