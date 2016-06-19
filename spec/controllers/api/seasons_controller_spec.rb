@@ -13,8 +13,10 @@ RSpec.describe Api::SeasonsController, type: :controller do
   end
 
   describe "GET #show" do
+    let(:season) { create(:season) }
+
     it "returns http success" do
-      get :show, params: params.merge(id: 1)
+      get :show, params: params.merge(id: season.id)
       expect(response).to have_http_status(:success)
     end
   end

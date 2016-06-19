@@ -6,7 +6,7 @@ class Api::SeasonsController < Api::BaseController
 
   def show
     @season = seasons.find(params[:id])
-    render json: @season
+    render json: @season, include: { series: :series_tracks }
   end
 
   protected
