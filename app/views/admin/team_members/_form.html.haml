@@ -1,0 +1,10 @@
+= simple_form_for([:admin, @team_member]) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :short_name
+    = f.input :name
+    = f.input :team_id, as: :hidden
+
+  .form-actions
+    = f.button :submit

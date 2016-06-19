@@ -17,15 +17,16 @@
             %span.icon-bar
           = link_to 'iSchedule', root_url, class: 'navbar-brand'
 
-        .collapse.navbar-collapse
-          %ul.nav.navbar-nav
-            %li.dropdown
-              %a{href: '#', class: 'dropdown-toggle', 'data-toggle' => 'dropdown'}
-                Series
-                %b.caret
-              %ul.dropdown-menu
-                %li
-                  = link_to 'Current season', 'series'
+        - if false
+          .collapse.navbar-collapse
+            %ul.nav.navbar-nav
+              %li.dropdown
+                %a{href: '#', class: 'dropdown-toggle', 'data-toggle' => 'dropdown'}
+                  Series
+                  %b.caret
+                %ul.dropdown-menu
+                  %li
+                    = link_to 'Current season', 'series'
 
     .container-fluid
       %p#notice= notice

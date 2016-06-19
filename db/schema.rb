@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160610200145) do
+ActiveRecord::Schema.define(version: 20160619110933) do
 
   create_table "seasons", force: :cascade do |t|
     t.string   "name",        limit: 255
@@ -57,6 +57,7 @@ ActiveRecord::Schema.define(version: 20160610200145) do
     t.integer  "team_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "short_name"
   end
 
   create_table "teams", force: :cascade do |t|

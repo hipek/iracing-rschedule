@@ -13,6 +13,7 @@
         %td= team.name
         %td= team.slug
         %td
+          = link_to 'Members', admin_team_members_url(team)
           = link_to 'Show', [:admin, team]
           = link_to 'Edit', edit_admin_team_path(team)
           = link_to 'Destroy', [:admin, team], :method => :delete, :data => { :confirm => 'Are you sure?' }
